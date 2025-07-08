@@ -13,9 +13,11 @@
   "license": "ISC",
   "dependencies": {
     "@langchain/community": "^0.3.32",
+    "@langchain/core": "^0.3.62",
     "async": "^3.2.6",
     "axios": "^1.7.9",
     "bcryptjs": "^3.0.1",
+    "busboy": "^1.6.0",
     "crypto-js": "^4.2.0",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
